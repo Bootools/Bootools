@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Bootools
-- 👀 I’m interested in web development, Linux, and design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome to my Profile
+
+## About Me
+
+- I’m interested in web development, Linux, and design
+- I’m currently learning HTML, CSS, and JavaScript
 
 <!---
 Bootools/Bootools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
